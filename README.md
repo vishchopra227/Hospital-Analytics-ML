@@ -191,6 +191,3 @@ The project demonstrates how data analytics and machine learning can be applied 
 
 GitHub: [@vishchopra227](https://github.com/vishchopra227)
 
----
-
-If you find this project useful, consider giving the repository a ⭐ on GitHub.
