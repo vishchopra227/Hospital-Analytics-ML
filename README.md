@@ -7,7 +7,7 @@ An end-to-end data analytics and machine learning project focused on exploring h
 Explore the interactive Power BI dashboard to analyze hospital ratings, hospital ownership, hospital types, state-wise distribution, and emergency service availability.
  
 🔗 **[View Interactive Power BI Dashboard](https://bit.ly/3U0zKuj)**
-
+ 
 ## 📌 Project Overview 
 
 Healthcare data can provide valuable insights into hospital distribution, ownership, emergency service availability, and overall ratings. This project analyzes hospital information to identify patterns, compare rating distributions, and explore the relationship between hospital characteristics and overall ratings.
