@@ -8,7 +8,7 @@ Explore the interactive Power BI dashboard to analyze hospital ratings, hospital
  
 🔗 **[View Interactive Power BI Dashboard](https://bit.ly/3U0zKuj)**
   
-## 📌 Project Overview 
+## 📌 Project Overview  
 
 Healthcare data can provide valuable insights into hospital distribution, ownership, emergency service availability, and overall ratings. This project analyzes hospital information to identify patterns, compare rating distributions, and explore the relationship between hospital characteristics and overall ratings.
 
